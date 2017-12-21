@@ -4,7 +4,7 @@ Copyright (C) Sony Mobile Communications 2017
 This is the Bug Tracker for Open Devices project.
 
 Build instructions
-http://developer.sonymobile.com/knowledge-base/open-source/open-devices/aosp-build-instructions/
+https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 
 Supported devices:
    - MSM8956 devices (loire board):

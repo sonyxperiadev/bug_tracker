@@ -32,3 +32,8 @@ How to add a bug
       - The issue and steps to reproduce the issue
       - Logs if available
 - Press "Submit new issue" button
+
+NOTE:
+- If the issue you found is a security issue, please instead inform
+  softwaresecurity@sonymobile.com for safe and secure handling and exposure
+  of the issue.

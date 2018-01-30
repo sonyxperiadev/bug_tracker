@@ -8,13 +8,17 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 
 Supported devices:
    - MSM8956 devices (loire board):
-      - Xperia X.................Suzu
-      - Xperia X Compact ........Kugo
+      - Xperia X.......................... Suzu
+      - Xperia X Compact ................. Kugo
+
+   - SDM630 devices (nile board):
+      - Xperia XA2........................ Pioneer
+      - Xperia XA2 Ultra ................. Discovery
 
    - MSM8996 devices (tone board):
-      - Xperia X Performance ................ Dora
-      - Xperia XZ ........................... Kagura
-      - Xperia XZs .......................... Keyaki
+      - Xperia X Performance ............. Dora
+      - Xperia XZ ........................ Kagura
+      - Xperia XZs ....................... Keyaki
 
    - MSM8998 devices (yoshino board):
       - Xperia XZ Premium ................ Maple

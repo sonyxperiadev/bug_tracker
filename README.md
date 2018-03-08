@@ -10,6 +10,7 @@ Supported devices:
    - MSM8956 devices (loire board):
       - Xperia X.......................... Suzu
       - Xperia X Compact ................. Kugo
+      - Xperia Touch ......................Blanc
 
    - SDM630 devices (nile board):
       - Xperia XA2........................ Pioneer

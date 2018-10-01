@@ -14,6 +14,7 @@ Supported devices:
    - SDM630 devices (nile board):
       - Xperia XA2........................ Pioneer
       - Xperia XA2 Ultra ................. Discovery
+      - Xperia XA2 Plus .................. Voyager
 
    - MSM8998 devices (yoshino board):
       - Xperia XZ Premium ................ Maple

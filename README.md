@@ -1,4 +1,4 @@
-Copyright (C) Sony Mobile Communications 2017
+Copyright (C) Sony Mobile Communications 2019
 =============================================
 
 This is the Bug Tracker for Open Devices project.
@@ -11,6 +11,10 @@ Supported devices:
       - Xperia XZ2 ....................... Akari
       - Xperia XZ2 Compact ............... Apollo
       - Xperia XZ3 ....................... Akatsuki
+
+   - SDM630/636 devices (ganges board):
+      - Xperia 10 ........................ Kirin
+      - Xperia 10 Plus ................... Mermaid
 
    - SDM630 devices (nile board):
       - Xperia XA2 ....................... Pioneer
@@ -30,7 +34,7 @@ Supported devices:
    - MSM8956 devices (loire board):
       - Xperia X ......................... Suzu
       - Xperia X Compact ................. Kugo
-      - Xperia Touch ......................Blanc
+      - Xperia Touch ..................... Blanc
 
 How to add a bug
 - Press "Issues" button

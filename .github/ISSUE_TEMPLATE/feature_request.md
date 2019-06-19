@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Device:** 
 **Platform:** 
+**Device:** 
 **Kernel version:** 
 **Android version:** 
 **Software binaries version:** 

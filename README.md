@@ -7,14 +7,18 @@ Build instructions
 https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 
 Supported devices:
-   - SDM845 devices (tama board):
-      - Xperia XZ2 ....................... Akari
-      - Xperia XZ2 Compact ............... Apollo
-      - Xperia XZ3 ....................... Akatsuki
+   - SM8150 devices (kumano board):
+      - Xperia 1 ......................... Griffin
+      - Xperia 5 ......................... Bahamut
 
    - SDM630/636 devices (ganges board):
       - Xperia 10 ........................ Kirin
       - Xperia 10 Plus ................... Mermaid
+
+   - SDM845 devices (tama board):
+      - Xperia XZ2 ....................... Akari
+      - Xperia XZ2 Compact ............... Apollo
+      - Xperia XZ3 ....................... Akatsuki
 
    - SDM630 devices (nile board):
       - Xperia XA2 ....................... Pioneer
@@ -23,7 +27,7 @@ Supported devices:
 
    - MSM8998 devices (yoshino board):
       - Xperia XZ Premium ................ Maple
-      - XPeria XZ1 ....................... Poplar
+      - Xperia XZ1 ....................... Poplar
       - Xperia XZ1 Compact ............... Lilac
 
    - MSM8996 devices (tone board):

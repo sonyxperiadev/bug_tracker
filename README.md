@@ -3,55 +3,59 @@ Copyright (C) Sony Mobile Communications 2019
 
 This is the Bug Tracker for Open Devices project.
 
-Build instructions
+### Build instructions
+
 https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 
-Supported devices:
-   - SM8150 devices (kumano board):
-      - Xperia 1 ......................... Griffin
-      - Xperia 5 ......................... Bahamut
+### Supported devices
 
-   - SDM630/636 devices (ganges board):
-      - Xperia 10 ........................ Kirin
-      - Xperia 10 Plus ................... Mermaid
+| Device | Codename |
+|:-|:-:|
+|| _[edo](https://github.com/sonyxperiadev/device-sony-edo) board_ (**SM8250**) |
+| Xperia 1 II <sup>WIP</sup> | [pdx203](https://github.com/sonyxperiadev/device-sony-pdx203) |
+| Xperia 5 II <sup>WIP</sup> | [pdx206](https://github.com/sonyxperiadev/device-sony-pdx206) |
+|| _[seine](https://github.com/sonyxperiadev/device-sony-seine) board_ (**SM6125**) |
+| Xperia 10 II | [pdx201](https://github.com/sonyxperiadev/device-sony-pdx201) |
+|| _[kumano](https://github.com/sonyxperiadev/device-sony-kumano) board_ (**SM8150**) |
+| Xperia 1 | [griffin](https://github.com/sonyxperiadev/device-sony-griffin) |
+| Xperia 5 | [bahamut](https://github.com/sonyxperiadev/device-sony-bahamut) |
+|| _[ganges](https://github.com/sonyxperiadev/device-sony-ganges) board_ (**SDM630/636**) |
+|Xperia 10| [kirin](https://github.com/sonyxperiadev/device-sony-kirin) |
+|Xperia 10 Plus| [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) |
+|| _[tama](https://github.com/sonyxperiadev/device-sony-tama) board_ (**SDM845**) |
+| Xperia XZ2 | [akari](https://github.com/sonyxperiadev/akari) |
+| Xperia XZ2 Compact | [apollo](https://github.com/sonyxperiadev/apollo) |
+| Xperia XZ3 | [akatsuki](https://github.com/sonyxperiadev/akatsuki) |
+|| _[nile](https://github.com/sonyxperiadev/device-sony-nile) board_ (**SDM630**) |
+| Xperia XA2 | [pioneer](https://github.com/sonyxperiadev/device-sony-pioneer) |
+| Xperia XA2 Ultra | [discovery](https://github.com/sonyxperiadev/device-sony-discovery) |
+| Xperia XA2 Plus | [voyager](https://github.com/sonyxperiadev/device-sony-voyager) |
+|| _[yoshino](https://github.com/sonyxperiadev/device-sony-yoshino) board_ (**MSM8998**) |
+| Xperia XZ Premium | [maple](https://github.com/sonyxperiadev/device-sony-maple) |
+| Xperia XZ1 | [poplar](https://github.com/sonyxperiadev/device-sony-poplar) |
+| Xperia XZ1 Compact | [lilac](https://github.com/sonyxperiadev/device-sony-lilac) |
+|| _[tone](https://github.com/sonyxperiadev/device-sony-tone) board_ (**MSM8996**) |
+| Xperia X Performance | [dora](https://github.com/sonyxperiadev/device-sony-dora) |
+| Xperia XZ | [kagura](https://github.com/sonyxperiadev/device-sony-kagura) |
+| Xperia XZs | [keyaki](https://github.com/sonyxperiadev/device-sony-keyaki) |
+|| _[loire](https://github.com/sonyxperiadev/device-sony-loire) board_ (**MSM8956**) |
+| Xperia X | [suzu](https://github.com/sonyxperiadev/device-sony-suzu) |
+| Xperia X Compact | [kugo](https://github.com/sonyxperiadev/device-sony-kugo) |
+| Xperia Touch | [blanc](https://github.com/sonyxperiadev/device-sony-blanc) |
 
-   - SDM845 devices (tama board):
-      - Xperia XZ2 ....................... Akari
-      - Xperia XZ2 Compact ............... Apollo
-      - Xperia XZ3 ....................... Akatsuki
+### How to add a bug
 
-   - SDM630 devices (nile board):
-      - Xperia XA2 ....................... Pioneer
-      - Xperia XA2 Ultra ................. Discovery
-      - Xperia XA2 Plus .................. Voyager
-
-   - MSM8998 devices (yoshino board):
-      - Xperia XZ Premium ................ Maple
-      - Xperia XZ1 ....................... Poplar
-      - Xperia XZ1 Compact ............... Lilac
-
-   - MSM8996 devices (tone board):
-      - Xperia X Performance ............. Dora
-      - Xperia XZ ........................ Kagura
-      - Xperia XZs ....................... Keyaki
-
-   - MSM8956 devices (loire board):
-      - Xperia X ......................... Suzu
-      - Xperia X Compact ................. Kugo
-      - Xperia Touch ..................... Blanc
-
-How to add a bug
 - Press "Issues" button
-- Press the "New Issue" button
-- Fill in the issue mentioning the following items:
-      - Device
-      - Kernel version
-      - Android version
-      - The issue and steps to reproduce the issue
-      - Logs if available
+- Press the "[New Issue](https://github.com/sonyxperiadev/bug_tracker/issues/new/choose)" button
+- Fill in the issue template mentioning the following items:
+  - Device
+  - Kernel version
+  - Android version
+  - The issue and steps to reproduce the issue
+  - Logs if available
 - Press "Submit new issue" button
 
-NOTE:
-- If the issue you found is a security issue, please instead inform
-  softwaresecurity@sonymobile.com for safe and secure handling and exposure
-  of the issue.
+#### Vulnerabilities
+If the issue you found is a security issue, please instead inform
+softwaresecurity@sonymobile.com for safe and secure handling and exposure
+of the issue.

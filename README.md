@@ -1,5 +1,7 @@
+Sony Open Devices Project - Bug Tracker
+=
 Copyright (C) Sony Mobile Communications 2019
-=============================================
+-
 
 This is the Bug Tracker for Open Devices project.
 
@@ -19,9 +21,9 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 || _[kumano](https://github.com/sonyxperiadev/device-sony-kumano) board_ (**SM8150**) |
 | Xperia 1 | [griffin](https://github.com/sonyxperiadev/device-sony-griffin) |
 | Xperia 5 | [bahamut](https://github.com/sonyxperiadev/device-sony-bahamut) |
-|| _[ganges](https://github.com/sonyxperiadev/device-sony-ganges) board_ (**SDM630/636**) |
-|Xperia 10| [kirin](https://github.com/sonyxperiadev/device-sony-kirin) |
-|Xperia 10 Plus| [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) |
+|| _[ganges](https://github.com/sonyxperiadev/device-sony-ganges) board_ |
+|Xperia 10| [kirin](https://github.com/sonyxperiadev/device-sony-kirin) (**SDM630**) |
+|Xperia 10 Plus| [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) (**SDM636**) |
 || _[tama](https://github.com/sonyxperiadev/device-sony-tama) board_ (**SDM845**) |
 | Xperia XZ2 | [akari](https://github.com/sonyxperiadev/akari) |
 | Xperia XZ2 Compact | [apollo](https://github.com/sonyxperiadev/apollo) |
@@ -43,7 +45,7 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Xperia X Compact | [kugo](https://github.com/sonyxperiadev/device-sony-kugo) |
 | Xperia Touch | [blanc](https://github.com/sonyxperiadev/device-sony-blanc) |
 
-### How to add a bug
+### How to report a bug
 
 - Press "Issues" button
 - Press the "[New Issue](https://github.com/sonyxperiadev/bug_tracker/issues/new/choose)" button
@@ -56,6 +58,7 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 - Press "Submit new issue" button
 
 #### Vulnerabilities
+
 If the issue you found is a security issue, please instead inform
 softwaresecurity@sonymobile.com for safe and secure handling and exposure
 of the issue.

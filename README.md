@@ -14,20 +14,23 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Device | Codename |
 |:-|:-:|
 |||
-|| _[edo](https://github.com/sonyxperiadev/device-sony-edo) board_ (**SM8250**) |
-| Xperia 1 II <sup>WIP</sup> | [pdx203](https://github.com/sonyxperiadev/device-sony-pdx203) |
-| Xperia 5 II <sup>WIP</sup> | [pdx206](https://github.com/sonyxperiadev/device-sony-pdx206) |
+|| _[lena](https://github.com/sonyxperiadev/device-sony-lena) board_ (**SM6350**, Snapdragon 690) |
+| Xperia 10 III <sup>WIP</sup> | [pdx213](https://github.com/sonyxperiadev/device-sony-pdx213) |
 |||
-|| _[seine](https://github.com/sonyxperiadev/device-sony-seine) board_ (**SM6125**) |
+|| _[edo](https://github.com/sonyxperiadev/device-sony-edo) board_ (**SM8250**, Snapdragon 865 5G) |
+| Xperia 1 II | [pdx203](https://github.com/sonyxperiadev/device-sony-pdx203) |
+| Xperia 5 II | [pdx206](https://github.com/sonyxperiadev/device-sony-pdx206) |
+|||
+|| _[seine](https://github.com/sonyxperiadev/device-sony-seine) board_ (**SM6125**, Snapdragon 665) |
 | Xperia 10 II | [pdx201](https://github.com/sonyxperiadev/device-sony-pdx201) |
 |||
-|| _[kumano](https://github.com/sonyxperiadev/device-sony-kumano) board_ (**SM8150**) |
+|| _[kumano](https://github.com/sonyxperiadev/device-sony-kumano) board_ (**SM8150**, Snapdragon 855+/860) |
 | Xperia 1 | [griffin](https://github.com/sonyxperiadev/device-sony-griffin) |
 | Xperia 5 | [bahamut](https://github.com/sonyxperiadev/device-sony-bahamut) |
 |||
 || _[ganges](https://github.com/sonyxperiadev/device-sony-ganges) board_ |
-|Xperia 10| [kirin](https://github.com/sonyxperiadev/device-sony-kirin) (**SDM630**) |
-|Xperia 10 Plus| [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) (**SDM636**) |
+| Xperia 10 | [kirin](https://github.com/sonyxperiadev/device-sony-kirin) (**SDM630**) |
+| Xperia 10 Plus | [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) (**SDM636**) |
 |||
 || _[tama](https://github.com/sonyxperiadev/device-sony-tama) board_ (**SDM845**) |
 | Xperia XZ2 | [akari](https://github.com/sonyxperiadev/akari) |

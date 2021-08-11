@@ -30,9 +30,9 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 |Xperia 10 Plus| [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) (**SDM636**) |
 |||
 || _[tama](https://github.com/sonyxperiadev/device-sony-tama) board_ (**SDM845**) |
-| Xperia XZ2 | [akari](https://github.com/sonyxperiadev/akari) |
-| Xperia XZ2 Compact | [apollo](https://github.com/sonyxperiadev/apollo) |
-| Xperia XZ3 | [akatsuki](https://github.com/sonyxperiadev/akatsuki) |
+| Xperia XZ2 | [akari](https://github.com/sonyxperiadev/device-sony-akari) |
+| Xperia XZ2 Compact | [apollo](https://github.com/sonyxperiadev/device-sony-apollo) |
+| Xperia XZ3 | [akatsuki](https://github.com/sonyxperiadev/device-sony-akatsuki) |
 |||
 || _[nile](https://github.com/sonyxperiadev/device-sony-nile) board_ (**SDM630**) |
 | Xperia XA2 | [pioneer](https://github.com/sonyxperiadev/device-sony-pioneer) |

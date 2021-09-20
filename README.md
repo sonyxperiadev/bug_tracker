@@ -14,6 +14,10 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Device | Codename |
 |:-|:-:|
 |||
+|| _[sagami](https://github.com/sonyxperiadev/device-sony-sagami) board_ (**SM8350**, Snapdragon 888) |
+| Xperia 1 III <sup>Announced</sup> | [pdx215](https://github.com/sonyxperiadev/device-sony-pdx215) |
+| Xperia 5 III <sup>Announced</sup> | [pdx214](https://github.com/sonyxperiadev/device-sony-pdx214) |
+|||
 || _[lena](https://github.com/sonyxperiadev/device-sony-lena) board_ (**SM6350**, Snapdragon 690) |
 | Xperia 10 III <sup>WIP</sup> | [pdx213](https://github.com/sonyxperiadev/device-sony-pdx213) |
 |||

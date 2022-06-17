@@ -14,9 +14,15 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Device | Codename |
 |:-|:-:|
 |||
+|| _[nagara](https://github.com/sonyxperiadev/device-sony-nagara) board_ (**SM8450**, Snapdragon 8 Gen 1) |
+| Xperia 1 IV <sup>Announced</sup> | [pdx223](https://github.com/sonyxperiadev/device-sony-pdx223) |
+|||
+|| _[murray](https://github.com/sonyxperiadev/device-sony-murray) board_ (**SM6375**, Snapdragon 695 5G) |
+| Xperia 10 IV <sup>Announced</sup> | [pdx225](https://github.com/sonyxperiadev/device-sony-pdx225) |
+|||
 || _[sagami](https://github.com/sonyxperiadev/device-sony-sagami) board_ (**SM8350**, Snapdragon 888) |
-| Xperia 1 III <sup>Announced</sup> | [pdx215](https://github.com/sonyxperiadev/device-sony-pdx215) |
-| Xperia 5 III <sup>Announced</sup> | [pdx214](https://github.com/sonyxperiadev/device-sony-pdx214) |
+| Xperia 1 III <sup>WIP</sup> | [pdx215](https://github.com/sonyxperiadev/device-sony-pdx215) |
+| Xperia 5 III <sup>WIP</sup> | [pdx214](https://github.com/sonyxperiadev/device-sony-pdx214) |
 |||
 || _[lena](https://github.com/sonyxperiadev/device-sony-lena) board_ (**SM6350**, Snapdragon 690) |
 | Xperia 10 III <sup>WIP</sup> | [pdx213](https://github.com/sonyxperiadev/device-sony-pdx213) |

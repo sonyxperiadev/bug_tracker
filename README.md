@@ -15,17 +15,18 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 |:-|:-:|
 |||
 || _[nagara](https://github.com/sonyxperiadev/device-sony-nagara) board_ (**SM8450**, Snapdragon 8 Gen 1) |
-| Xperia 1 IV <sup>Announced</sup> | [pdx223](https://github.com/sonyxperiadev/device-sony-pdx223) |
+| Xperia 1 IV <sup>WIP</sup> | [pdx223](https://github.com/sonyxperiadev/device-sony-pdx223) |
+| Xperia 5 IV <sup>WIP</sup> | [pdx224](https://github.com/sonyxperiadev/device-sony-pdx224) |
 |||
 || _[murray](https://github.com/sonyxperiadev/device-sony-murray) board_ (**SM6375**, Snapdragon 695 5G) |
-| Xperia 10 IV <sup>Announced</sup> | [pdx225](https://github.com/sonyxperiadev/device-sony-pdx225) |
+| Xperia 10 IV <sup>WIP</sup> | [pdx225](https://github.com/sonyxperiadev/device-sony-pdx225) |
 |||
 || _[sagami](https://github.com/sonyxperiadev/device-sony-sagami) board_ (**SM8350**, Snapdragon 888) |
-| Xperia 1 III <sup>WIP</sup> | [pdx215](https://github.com/sonyxperiadev/device-sony-pdx215) |
-| Xperia 5 III <sup>WIP</sup> | [pdx214](https://github.com/sonyxperiadev/device-sony-pdx214) |
+| Xperia 1 III | [pdx215](https://github.com/sonyxperiadev/device-sony-pdx215) |
+| Xperia 5 III | [pdx214](https://github.com/sonyxperiadev/device-sony-pdx214) |
 |||
 || _[lena](https://github.com/sonyxperiadev/device-sony-lena) board_ (**SM6350**, Snapdragon 690) |
-| Xperia 10 III <sup>WIP</sup> | [pdx213](https://github.com/sonyxperiadev/device-sony-pdx213) |
+| Xperia 10 III | [pdx213](https://github.com/sonyxperiadev/device-sony-pdx213) |
 |||
 || _[edo](https://github.com/sonyxperiadev/device-sony-edo) board_ (**SM8250**, Snapdragon 865 5G) |
 | Xperia 1 II | [pdx203](https://github.com/sonyxperiadev/device-sony-pdx203) |
@@ -48,24 +49,24 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Xperia XZ3 | [akatsuki](https://github.com/sonyxperiadev/device-sony-akatsuki) |
 |||
 || _[nile](https://github.com/sonyxperiadev/device-sony-nile) board_ (**SDM630**) |
-| Xperia XA2 | [pioneer](https://github.com/sonyxperiadev/device-sony-pioneer) |
-| Xperia XA2 Ultra | [discovery](https://github.com/sonyxperiadev/device-sony-discovery) |
-| Xperia XA2 Plus | [voyager](https://github.com/sonyxperiadev/device-sony-voyager) |
+| Xperia XA2 <sup>Deprecated</sup> | [pioneer](https://github.com/sonyxperiadev/device-sony-pioneer) |
+| Xperia XA2 Ultra <sup>Deprecated</sup> | [discovery](https://github.com/sonyxperiadev/device-sony-discovery) |
+| Xperia XA2 Plus <sup>Deprecated</sup> | [voyager](https://github.com/sonyxperiadev/device-sony-voyager) |
 |||
 || _[yoshino](https://github.com/sonyxperiadev/device-sony-yoshino) board_ (**MSM8998**) |
-| Xperia XZ Premium | [maple](https://github.com/sonyxperiadev/device-sony-maple) |
-| Xperia XZ1 | [poplar](https://github.com/sonyxperiadev/device-sony-poplar) |
-| Xperia XZ1 Compact | [lilac](https://github.com/sonyxperiadev/device-sony-lilac) |
+| Xperia XZ Premium <sup>Deprecated</sup> | [maple](https://github.com/sonyxperiadev/device-sony-maple) |
+| Xperia XZ1 <sup>Deprecated</sup> | [poplar](https://github.com/sonyxperiadev/device-sony-poplar) |
+| Xperia XZ1 Compact <sup>Deprecated</sup> | [lilac](https://github.com/sonyxperiadev/device-sony-lilac) |
 |||
 || _[tone](https://github.com/sonyxperiadev/device-sony-tone) board_ (**MSM8996**) |
-| Xperia X Performance | [dora](https://github.com/sonyxperiadev/device-sony-dora) |
-| Xperia XZ | [kagura](https://github.com/sonyxperiadev/device-sony-kagura) |
-| Xperia XZs | [keyaki](https://github.com/sonyxperiadev/device-sony-keyaki) |
+| Xperia X Performance <sup>Deprecated</sup> | [dora](https://github.com/sonyxperiadev/device-sony-dora) |
+| Xperia XZ <sup>Deprecated</sup> | [kagura](https://github.com/sonyxperiadev/device-sony-kagura) |
+| Xperia XZs <sup>Deprecated</sup> | [keyaki](https://github.com/sonyxperiadev/device-sony-keyaki) |
 |||
 || _[loire](https://github.com/sonyxperiadev/device-sony-loire) board_ (**MSM8956**) |
-| Xperia X | [suzu](https://github.com/sonyxperiadev/device-sony-suzu) |
-| Xperia X Compact | [kugo](https://github.com/sonyxperiadev/device-sony-kugo) |
-| Xperia Touch | [blanc](https://github.com/sonyxperiadev/device-sony-blanc) |
+| Xperia X <sup>Deprecated</sup>| [suzu](https://github.com/sonyxperiadev/device-sony-suzu) |
+| Xperia X Compact <sup>Deprecated</sup>| [kugo](https://github.com/sonyxperiadev/device-sony-kugo) |
+| Xperia Touch <sup>Deprecated</sup>| [blanc](https://github.com/sonyxperiadev/device-sony-blanc) |
 
 ### How to report a bug
 

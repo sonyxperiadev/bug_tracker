@@ -40,8 +40,8 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Xperia 5 | [bahamut](https://github.com/sonyxperiadev/device-sony-bahamut) |
 |||
 || _[ganges](https://github.com/sonyxperiadev/device-sony-ganges) board_ |
-| Xperia 10 | [kirin](https://github.com/sonyxperiadev/device-sony-kirin) (**SDM630**) |
-| Xperia 10 Plus | [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) (**SDM636**) |
+| Xperia 10 <sup>Deprecated</sup> | [kirin](https://github.com/sonyxperiadev/device-sony-kirin) (**SDM630**) |
+| Xperia 10 Plus <sup>Deprecated</sup> | [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) (**SDM636**) |
 |||
 || _[tama](https://github.com/sonyxperiadev/device-sony-tama) board_ (**SDM845**) |
 | Xperia XZ2 | [akari](https://github.com/sonyxperiadev/device-sony-akari) |
@@ -67,6 +67,9 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Xperia X <sup>Deprecated</sup>| [suzu](https://github.com/sonyxperiadev/device-sony-suzu) |
 | Xperia X Compact <sup>Deprecated</sup>| [kugo](https://github.com/sonyxperiadev/device-sony-kugo) |
 | Xperia Touch <sup>Deprecated</sup>| [blanc](https://github.com/sonyxperiadev/device-sony-blanc) |
+
+_Deprecated_ platforms are not maintained anymore and might have been removed on the latest
+branches, but are typically still available on branches for previous versions of Android.
 
 ### How to report a bug
 

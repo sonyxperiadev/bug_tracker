@@ -14,9 +14,15 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Device | Codename |
 |:-|:-:|
 |||
+|| _[yodo](https://github.com/sonyxperiadev/device-sony-yodo) board_ (**SM8550**, Snapdragon 8 Gen 2) |
+| Xperia 1 V <sup>WIP</sup> | [pdx234](https://github.com/sonyxperiadev/device-sony-pdx234) |
+|||
+|| _[zambezi](https://github.com/sonyxperiadev/device-sony-zambezi) board_ (**SM6375**, Snapdragon 695 5G) |
+| Xperia 10 V <sup>WIP</sup> | [pdx235](https://github.com/sonyxperiadev/device-sony-pdx235) |
+|||
 || _[nagara](https://github.com/sonyxperiadev/device-sony-nagara) board_ (**SM8450**, Snapdragon 8 Gen 1) |
-| Xperia 1 IV <sup>WIP</sup> | [pdx223](https://github.com/sonyxperiadev/device-sony-pdx223) |
-| Xperia 5 IV <sup>WIP</sup> | [pdx224](https://github.com/sonyxperiadev/device-sony-pdx224) |
+| Xperia 1 IV | [pdx223](https://github.com/sonyxperiadev/device-sony-pdx223) |
+| Xperia 5 IV | [pdx224](https://github.com/sonyxperiadev/device-sony-pdx224) |
 |||
 || _[murray](https://github.com/sonyxperiadev/device-sony-murray) board_ (**SM6375**, Snapdragon 695 5G) |
 | Xperia 10 IV <sup>WIP</sup> | [pdx225](https://github.com/sonyxperiadev/device-sony-pdx225) |

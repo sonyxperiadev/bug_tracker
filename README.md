@@ -43,17 +43,17 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Xperia 10 II | [pdx201](https://github.com/sonyxperiadev/device-sony-pdx201) |
 |||
 || _[kumano](https://github.com/sonyxperiadev/device-sony-kumano) board_ (**SM8150**, Snapdragon 855+/860) |
-| Xperia 1 | [griffin](https://github.com/sonyxperiadev/device-sony-griffin) |
-| Xperia 5 | [bahamut](https://github.com/sonyxperiadev/device-sony-bahamut) |
+| Xperia 1 <sup>Deprecated</sup> | [griffin](https://github.com/sonyxperiadev/device-sony-griffin) |
+| Xperia 5 <sup>Deprecated</sup> | [bahamut](https://github.com/sonyxperiadev/device-sony-bahamut) |
 |||
 || _[ganges](https://github.com/sonyxperiadev/device-sony-ganges) board_ |
 | Xperia 10 <sup>Deprecated</sup> | [kirin](https://github.com/sonyxperiadev/device-sony-kirin) (**SDM630**) |
 | Xperia 10 Plus <sup>Deprecated</sup> | [mermaid](https://github.com/sonyxperiadev/device-sony-mermaid) (**SDM636**) |
 |||
 || _[tama](https://github.com/sonyxperiadev/device-sony-tama) board_ (**SDM845**) |
-| Xperia XZ2 | [akari](https://github.com/sonyxperiadev/device-sony-akari) |
-| Xperia XZ2 Compact | [apollo](https://github.com/sonyxperiadev/device-sony-apollo) |
-| Xperia XZ3 | [akatsuki](https://github.com/sonyxperiadev/device-sony-akatsuki) |
+| Xperia XZ2 <sup>Deprecated</sup> | [akari](https://github.com/sonyxperiadev/device-sony-akari) |
+| Xperia XZ2 Compact <sup>Deprecated</sup> | [apollo](https://github.com/sonyxperiadev/device-sony-apollo) |
+| Xperia XZ3 <sup>Deprecated</sup> | [akatsuki](https://github.com/sonyxperiadev/device-sony-akatsuki) |
 |||
 || _[nile](https://github.com/sonyxperiadev/device-sony-nile) board_ (**SDM630**) |
 | Xperia XA2 <sup>Deprecated</sup> | [pioneer](https://github.com/sonyxperiadev/device-sony-pioneer) |

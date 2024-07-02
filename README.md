@@ -14,6 +14,12 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Device | Codename |
 |:-|:-:|
 |||
+|| _[asahi](https://github.com/sonyxperiadev/device-sony-asahi) board_ (**SM8650**, Snapdragon 8 Gen 3) |
+| Xperia 1 VI <sup>Announced</sup> | [pdx245](https://github.com/sonyxperiadev/device-sony-pdx245) |
+|||
+|| _[columbia](https://github.com/sonyxperiadev/device-sony-columbia) board_ (**SM6450**, Snapdragon 6 Gen 1) |
+| Xperia 10 VI <sup>Announced</sup> | [pdx246](https://github.com/sonyxperiadev/device-sony-pdx246) |
+|||
 || _[yodo](https://github.com/sonyxperiadev/device-sony-yodo) board_ (**SM8550**, Snapdragon 8 Gen 2) |
 | Xperia 1 V <sup>WIP</sup> | [pdx234](https://github.com/sonyxperiadev/device-sony-pdx234) |
 | Xperia 5 V <sup>WIP</sup> | [pdx237](https://github.com/sonyxperiadev/device-sony-pdx237) |

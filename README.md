@@ -14,6 +14,12 @@ https://developer.sony.com/develop/open-devices/guides/aosp-build-instructions/
 | Device | Codename |
 |:-|:-:|
 |||
+|| _[shimanto](https://github.com/sonyxperiadev/device-sony-shimanto) board_ (**SM8750**, Snapdragon 8 Elite) |
+| Xperia 1 VII <sup>Announced</sup> | [pdx256](https://github.com/sonyxperiadev/device-sony-pdx256) |
+|||
+|| _[elbe](https://github.com/sonyxperiadev/device-sony-elbe) board_ (**SM6475-AB**, Snapdragon 6 Gen 3) |
+| Xperia 10 VII <sup>Announced</sup> | [pdx257](https://github.com/sonyxperiadev/device-sony-pdx257) |
+|||
 || _[asahi](https://github.com/sonyxperiadev/device-sony-asahi) board_ (**SM8650**, Snapdragon 8 Gen 3) |
 | Xperia 1 VI <sup>Announced</sup> | [pdx245](https://github.com/sonyxperiadev/device-sony-pdx245) |
 |||

@@ -1,0 +1,73 @@
+name: Bug Report
+description: Create a report to fix issues
+title: "[BUG][BOARD][ANDROID version number][KERNEL VERSION]: "
+labels: ["bug", "needs-triage"]
+body:
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: |
+        Please describe the software environment you have on the device.
+        Examples:
+          **Platform:** lena
+          **Device:** pdx213 xqbt52 (Xperia 10 III)
+          **Kernel version:** 4.19.188-gc7505f2d6045-dirty (due to wlan-qc submodules)
+          **Android version:** AOSP11 android-11.0.0_r46
+          **Software binaries version:** SW_binaries_for_Xperia_Android_11_4.19_v8a_lena.img
+      value: |
+        **Platform:**
+        **Device:**
+        **Kernel version:**
+        **Android version:**
+        **Software binaries version:**
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: previously-working-on
+    attributes:
+      label: Previously working on
+      description: |
+        Has this always been a problem, or is it a new issue?
+        Please be specific. Include things like previous sync and build date,
+        the latest known working kernel version including commit id and any other
+        information that may be relevant. If possible and applicable, include such
+        information from other repositories too (device, platform or hardware).
+    validations:
+      required: true
+  - type: textarea
+    id: description-bug
+    attributes:
+      label: Description
+      description: |
+        Write the issue description here.
+    validations:
+      required: true
+  - type: textarea
+    id: symptoms
+    attributes:
+      label: Symptoms
+      description: |
+        Write the symptoms here.
+    validations:
+      required: true
+  - type: textarea
+    id: how-to-reproduce
+    attributes:
+      label: How to reproduce the bug
+      description: |
+        Please describe how exactly reproduce the issue step by step.
+      value: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: |
+        Add any other context, e.g. upload logs or screenshots about the bug here.
+        It will be very hard for us to track down your issue without logs, so
+        please attach a logcat and dmesg for us here!
